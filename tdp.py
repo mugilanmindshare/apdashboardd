@@ -7,7 +7,7 @@ import plotly
 
 # Keep this out of source code repository - save in a file or a database
 VALID_USERNAME_PASSWORD_PAIRS = {
-    'TDP': 'tdp@2024'
+    'tdp': 'tdp@2024'
 }
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
