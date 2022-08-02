@@ -20,7 +20,7 @@ auth = dash_auth.BasicAuth(
 
 app.layout = html.Div([
         html.Iframe(
-            src='https://app.powerbi.com/view?r=eyJrIjoiOGM2MzE0NTEtODYyZC00OWM5LWI2YzAtZDhjNWZjMWE3MDE5IiwidCI6Ijk1ZmVmOGY3LWQ1NzQtNDNjYi1hYzUwLTE1NWViZDA2MTFmNSJ9&pageName=ReportSection149e1f7d5c0978f8f6e1',style={"title":"TDP Candidate Profile - TDP","width":1250,"height":650,"frameborder":0,"allowFullScreen":True})])
+            src='https://app.powerbi.com/view?r=eyJrIjoiOGM2MzE0NTEtODYyZC00OWM5LWI2YzAtZDhjNWZjMWE3MDE5IiwidCI6Ijk1ZmVmOGY3LWQ1NzQtNDNjYi1hYzUwLTE1NWViZDA2MTFmNSJ9&pageName=ReportSection149e1f7d5c0978f8f6e1',style={"title":"TDP Candidate Profile - TDP","width":1080,"height":1400,"frameborder":0,"allowFullScreen":True})])
 
 
 if __name__ == '__main__':
